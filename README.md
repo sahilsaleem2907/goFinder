@@ -1,5 +1,5 @@
 # GoFinder
-- An interactive tool that allows you to search for employees and get their linkedin profiles.
+- An interactive tool that allows you to search for employees and get their Information including location,linkedin profiles.
 - Filters such as category,company is also available for more specific searches
 
 # Platforms
