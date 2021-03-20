@@ -5,6 +5,7 @@
 # Platforms
 - Website is available at : https://gofinder-gg.herokuapp.com/
 - App has also been created using Flutter for Android + iOS
+- Design : https://www.figma.com/file/0LhzciiP33w216U8mIBlr9/Devspace
 
 ![Image1](images/google-pixelbook-mockup.png) 
 ![Image2](images/phone.png) 
