@@ -1,0 +1,25 @@
+.primaryBtn {
+  margin: auto;
+  max-width: 50%;
+  background-color: #0054ff;
+  padding: 20px 93px;
+  border: none;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.btnText {
+  white-space: nowrap;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  text-decoration: none !important;
+}
+
+.primaryBtn:hover {
+  background-color: #518bff;
+  transition: 0.2s ease;
+}

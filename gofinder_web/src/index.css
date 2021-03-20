@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.DashboardContainer {
+  height: 1vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100vh;
+  width: 100%;
+}
+
+.btnContainer {
+  margin: auto;
+}
+
+.logoImage {
+  margin-top: 10%;
+  z-index: 2;
+  max-width: 35%;
+}
+
+.rightCircle {
+  float: right;
+  z-index: -100;
+}
+
+.leftCircle {
+  float: left;
+  margin-top: 10%;
+  z-index: -100;
+}
